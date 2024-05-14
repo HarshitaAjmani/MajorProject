@@ -1,0 +1,6 @@
+1. image augemntation script small one
+2. try chagning paramters with existing model like gaussian blur etc 
+3. create your own dataset
+4. try image augmentaiotion with own created data
+5. try with different count of epochs
+3. work on fixing the algorithm
